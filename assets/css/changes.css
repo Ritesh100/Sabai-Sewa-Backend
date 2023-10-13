@@ -1,0 +1,15 @@
+/* Changes made */
+ul.dropdown-menu {
+    position: static !important;
+    transform: none !important;
+    background: #c9c9c933 !important;
+}
+
+.main-sidebar.sidebar-style-2 {
+    overflow: auto !important;
+}
+
+body.layout-4 .main-sidebar{
+    height: calc(100%) !important;
+}
+/* Changes made */
